@@ -1,0 +1,23 @@
+{
+  "name": "openvitools",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Tools to modify LabView .vi files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidanWelch/OpenViTools.git"
+  },
+  "keywords": [
+    "LabView"
+  ],
+  "author": "Aidan Welch",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AidanWelch/OpenViTools/issues"
+  },
+  "homepage": "https://github.com/AidanWelch/OpenViTools#readme"
+}
