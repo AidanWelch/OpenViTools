@@ -16,11 +16,7 @@ deduce what everything is.  It is not all accurate but is a starting point.
 
 String notes:
 - For some text:
-- - Starts with "
-- - Next byte is the length as a UInt8BE
-- - Next is the string
-- - The first byte following a string is 0x84
-- - The next and last byte it $
+- - Encoded as what I call a dynamic number 
 - For other text:
 - - Unknown what it starts with
 - - The next byte is the length as UInt8BE
